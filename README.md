@@ -26,3 +26,6 @@
 
 Лаконично перечисляет ключевые сценарии.
 
+![image](https://github.com/user-attachments/assets/2e8b21d0-c45e-4648-a8e5-8ef4e79cbd94)
+
+
