@@ -55,29 +55,29 @@
 2. Authors — информация об авторах.
    - Поля: AuthorID (PK), FirstName, LastName, BirthYear
    - Связь: Многие-ко-многим с Books через BookAuthors
-3. *ublishers — информация об издательствах.
+3. ublishers — информация об издательствах.
    - Поля: PublisherID (PK), Name, Address
    - Связь: Один-ко-многим с Books
 4. Readers — информация о читателях.
    - Поля: ReaderID (PK), FirstName, LastName, Email (уникальный), Phone
    - Связь: Один-к-одному с LibraryCards, один-ко-многим с Orders и Reviews
-5. **LibraryCards** — библиотечные карты.
+5. LibraryCards — библиотечные карты.
    - Поля: CardID (PK), ReaderID (FK, уникальный), IssueDate, ExpiryDate
    - Связь: Один-к-одному с Readers
-6. **Orders** — заказы (выдача/возврат книг).
+6. Orders — заказы (выдача/возврат книг).
    - Поля: OrderID (PK), BookID (FK), ReaderID (FK), BorrowDate, ReturnDate, Status
    - Связь: Один-ко-многим с Books и Readers
-7. **Reviews** — отзывы о книгах.
+7. Reviews — отзывы о книгах.
    - Поля: ReviewID (PK), BookID (FK), ReaderID (FK), Rating, Comment, ReviewDate
    - Связь: Один-ко-многим с Books и Readers
-8. **BookAuthors** — связь книг и авторов.
+8. BookAuthors — связь книг и авторов.
    - Поля: BookID (FK), AuthorID (FK)
    - Связь: Многие-ко-многим между Books и Authors
 
 Типы связей
-- Один-к-одному**: Readers ↔ LibraryCards
-- Один-ко-многим**: Books → Reviews, Publishers → Books, Readers → Orders
-- Многие-ко-многим**: Books ↔ Authors (через BookAuthors)
+- Один-к-одному: Readers ↔ LibraryCards
+- Один-ко-многим: Books → Reviews, Publishers → Books, Readers → Orders
+- Многие-ко-многим: Books ↔ Authors (через BookAuthors)
 
 Используемая СУБД
 SQLite (файл: `library.db`)
