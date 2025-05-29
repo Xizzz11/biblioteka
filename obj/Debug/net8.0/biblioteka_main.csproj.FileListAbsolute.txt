@@ -1,0 +1,5 @@
+C:\Users\studentcoll\source\repos\biblioteka-main\biblioteka-main\obj\Debug\net8.0\biblioteka_main.csproj.AssemblyReference.cache
+C:\Users\studentcoll\source\repos\biblioteka-main\biblioteka-main\obj\Debug\net8.0\biblioteka_main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentcoll\source\repos\biblioteka-main\biblioteka-main\obj\Debug\net8.0\biblioteka_main.AssemblyInfoInputs.cache
+C:\Users\studentcoll\source\repos\biblioteka-main\biblioteka-main\obj\Debug\net8.0\biblioteka_main.AssemblyInfo.cs
+C:\Users\studentcoll\source\repos\biblioteka-main\biblioteka-main\obj\Debug\net8.0\biblioteka_main.csproj.CoreCompileInputs.cache
