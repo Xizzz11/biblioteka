@@ -87,7 +87,8 @@
 **Описание**: Отображает модели (`Book`, `Author`, `Reader`, `Order`, `Review`) и связи.  
 **UML**: Классы, атрибуты, методы, отношения.
 
-![image](https://github.com/user-attachments/assets/5d464218-e120-4a61-abff-1719687d8a0e)
+![image](https://github.com/user-attachments/assets/3978dd98-77d2-43b3-b2e8-1c4bcfa43596)
+
 
 
 > 📌 Диаграммы можно создать в PlantUML или аналогичных инструментах.
