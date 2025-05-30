@@ -35,6 +35,33 @@
 | 🔎 **Поиск книг**         | Ищет книги по названию или автору.                                   |
 | 🚪 **Выход**              | Завершает работу приложения.                                         |
 
+
+
+![image](https://github.com/user-attachments/assets/a307619e-fc36-4d0f-962b-adfbb40649a3)
+
+![image](https://github.com/user-attachments/assets/f84d0778-e3db-4323-afde-bf592599ed20)
+
+![image](https://github.com/user-attachments/assets/1ec54060-ac76-455c-8bc2-4f381b38f77f)
+
+![image](https://github.com/user-attachments/assets/7576cf7a-84ed-456f-bd58-48bde9bb8a94)
+
+![image](https://github.com/user-attachments/assets/a8f9baef-cc7e-4849-86de-caaac8e9fc37)
+
+![image](https://github.com/user-attachments/assets/cd3bee02-af94-44a6-b455-35ac7737104e)
+
+![image](https://github.com/user-attachments/assets/84dc22ed-b095-4f89-98be-0f3d992c7da6)
+
+![image](https://github.com/user-attachments/assets/d780a969-3f76-4a5d-aba7-005b501ecb1d)
+
+![image](https://github.com/user-attachments/assets/2b9cefbb-a83a-4545-9840-17240d0d4784)
+
+![image](https://github.com/user-attachments/assets/b58f073f-204b-436b-bd62-f31e1900a13c)
+
+![image](https://github.com/user-attachments/assets/d416377f-bc8b-4ede-b91c-66f3d3802010)
+
+![image](https://github.com/user-attachments/assets/54c0783e-d263-4050-b626-dbc707557452)
+
+
 ---
 
 ## 🗃️ База данных
